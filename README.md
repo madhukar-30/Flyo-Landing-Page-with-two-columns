@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ]([https://your-solution-url.com](https://github.com/madhukar-30/Flyo-Landing-Page-with-two-columns.git)
+- Solution URL: [ solution URL ]([https://github.com/madhukar-30/Flyo-Landing-Page-with-two-columns.git])
 - Live Site URL: [ live site URL ](https://64600d84f6102418c2a1d406--radiant-meringue-5465e6.netlify.app/)
 
 ## My process
