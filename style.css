@@ -111,6 +111,7 @@ input {
     outline-color: transparent;
     border: none;
     border-radius: 0.2rem;
+    cursor: pointer;
 }
 
 .btn:hover {
@@ -220,7 +221,7 @@ text-align: justify;
                        "review review "
                         "avatar job  ";
 
-
+  margin-bottom: 3rem;
 }
 .quotes{
     grid-area: quote;
@@ -277,7 +278,7 @@ article.early-access input{
 footer{
     background-color:var(--Very-Dark-Blue);
     color:white;
-    padding:2rem;
+   padding:4rem 2rem;
 }
 .footer-container{
     display: grid;
